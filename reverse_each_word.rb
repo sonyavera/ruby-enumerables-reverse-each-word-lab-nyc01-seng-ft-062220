@@ -3,6 +3,6 @@ def reverse_each_word(sentence)
   sentence_array.each do |word|
   new_array << word.reverse
   end
-new_array = array.reverse_each
-reversed_array
+new_array.join(' ')
+new_array
 end
