@@ -1,8 +1,6 @@
 # def reverse_each_word(sentence)
-#   sentence_array = sentence.split(' ')
-#   sentence_array.each do |word|
-#   new_array << word.reverse!
-#   end
+#   sentence_array = sentence.split("" "")
+#   sentence_array.each {|word| new_array << word.reverse!}
 # new_array.join(' ')
 # end
 
